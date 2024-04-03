@@ -1,0 +1,10 @@
+{
+  "flavours": {
+    "BSP": "https://github.com/FakeGApps/FakeGApps-Release/releases/download/v1.5/FakeGApps-v1.5-BSP.zip",
+    "FDD": "https://github.com/FakeGApps/FakeGApps-Release/releases/download/v1.5/FakeGApps-v1.5-FDD.zip",
+    "FOX": "https://github.com/FakeGApps/FakeGApps-Release/releases/download/v1.5/FakeGApps-v1.5-FOX.zip",
+    "GPS": "https://github.com/FakeGApps/FakeGApps-Release/releases/download/v1.5/FakeGApps-v1.5-GPS.zip",
+    "NEO": "https://github.com/FakeGApps/FakeGApps-Release/releases/download/v1.5/FakeGApps-v1.5-NEO.zip",
+    "NLP": "https://github.com/FakeGApps/FakeGApps-Release/releases/download/v1.5/FakeGApps-v1.5-NLP.zip"
+  }
+}
